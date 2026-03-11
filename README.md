@@ -18,7 +18,7 @@
 * **時序 Padding 演算法**：針對開局階段開發自動補足機制，確保模型能獲得穩定的歷史上下文資訊。
 
 ### 3. 機率建模 (Label Encoding)
-* **One-hot 標籤編碼**：將落子目標轉化為 361 維（$19 \times 19$）向量，將預測落點建模為空間機率分布問題。
+* **One-hot 標籤編碼**：將落子目標轉化為 361 維（19*19）向量，將預測落點建模為空間機率分布問題。
 
 ## 專案結構 (Project Structure)
 ```text
@@ -36,6 +36,7 @@ Final Ranking: Top 15 / 580 teams
 
 
 ![image](https://github.com/IcerZMa/2023_AI_CUP_GO/blob/main/final_rank.png?raw=true)
+
 
 
 
