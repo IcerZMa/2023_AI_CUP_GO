@@ -1,6 +1,6 @@
 # 2023 AI CUP - Go Competition (Top 15 / 580)
 
-本專案參加 **2023 AI CUP 圍棋人工智慧競賽**，開發一套整合「棋手實力預測」、「落子預測」與「下棋風格分析」的深度學習分析系統。
+本專案參加 **2023 AI CUP 圍棋棋力模仿與棋風辨識競賽**，開發一套整合「棋手實力預測」、「落子預測」與「下棋風格分析」的深度學習分析系統。
 
 ## 核心目標 (Core Objectives)
 * **實力評估 (Rank Prediction)**：精確預測對局者的級位與段位。
@@ -36,6 +36,7 @@ Final Ranking: Top 15 / 580 teams
 
 
 ![image](https://github.com/IcerZMa/2023_AI_CUP_GO/blob/main/final_rank.png?raw=true)
+
 
 
 
