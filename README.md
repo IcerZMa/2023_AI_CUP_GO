@@ -2,6 +2,8 @@
 
 本專案參加 **2023 AI CUP 圍棋棋力模仿與棋風辨識競賽**，開發一套整合「棋手實力預測」、「落子預測」與「下棋風格分析」的深度學習分析系統。
 
+**競賽時間**：2023 年 9 月 - 11 月
+
 ## 核心目標 (Core Objectives)
 * **實力評估 (Rank Prediction)**：精確預測對局者的級位與段位。
 * **落子預測 (Move Prediction)**：模擬棋盤局勢，預測對手最可能的下一手位置。
@@ -36,6 +38,7 @@ Final Ranking: Top 15 / 580 teams
 
 
 ![image](https://github.com/IcerZMa/2023_AI_CUP_GO/blob/main/final_rank.png?raw=true)
+
 
 
 
