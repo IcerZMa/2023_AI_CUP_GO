@@ -39,3 +39,4 @@ Final Ranking: Top 15 / 580 teams
 
 ![image](https://github.com/IcerZMa/2023_AI_CUP_GO/blob/main/final_rank.png?raw=true)
 
+
