@@ -24,11 +24,11 @@
 
 ## Project Structure
 
-notebooks/
-    dan_model.ipynb
-    kyu_model.ipynb
-    style_analysis.ipynb
-    submission_pipeline.ipynb
+notebooks/<br>
+    dan_model.ipynb<br>
+    kyu_model.ipynb<br>
+    style_analysis.ipynb<br>
+    submission_pipeline.ipynb<br>
 
 final_rank.png
 
@@ -38,5 +38,6 @@ Final Ranking: Top 15 / 580 teams
 
 
 ![image](https://github.com/IcerZMa/2023_AI_CUP_GO/blob/main/final_rank.png?raw=true)
+
 
 
