@@ -29,9 +29,20 @@ notebooks/
 ├── kyu_model.ipynb           # 級位實力預測模型
 ├── style_analysis.ipynb      # 風格分類辨識模型
 └── submission_pipeline.ipynb  # 整合推論與繳交流程
-
 final_rank.png
 ```
+
+## 競賽表現 (Competition Performance)
+
+本項目參與圍棋棋力模仿與棋風辨識競賽，根據官方總分公式進行評估：
+`Score = Ten_Kyu_1 * 0.25 + Ten_Kyu_5 * 0.1 + One_Dan_1 * 0.25 + One_Dan_5 * 0.1 + PSA * 0.3`
+
+| 模型版本 (Version) | 總分 (Total Score) | 提升幅度 (Improvement) |
+| :--- | :---: | :---: |
+| 基準模型 (Baseline) | 0.3313 | - |
+| **優化後模型 (Ours)** | **0.5561** | **+67.85%** |
+
+
 ##  Result
 
 Final Ranking: Top 15 / 580 teams
